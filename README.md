@@ -8,3 +8,8 @@
 - https://github.com/The-Conglomerate/Voron-Klipper-Common
 - https://github.com/Hartk-PrinterConfigs
 - https://github.com/zellneralex/klipper_config
+
+# CANBus
+- https://github.com/Esoterical/voron_canbus
+- https://github.com/maz0r/klipper_canbus/blob/main/index.md
+- https://github.com/EricZimmerman/VoronTools/blob/main/EBB_CAN.md
